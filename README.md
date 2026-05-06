@@ -83,3 +83,4 @@ Improve UI using React
 Add user authentication
 
 Deploy on cloud (AWS / Render / Vercel)
+**Live Demo** https://movierecommender-p7cbeazdkicgdbyevwuvrq.streamlit.app/
