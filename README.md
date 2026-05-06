@@ -77,6 +77,9 @@ streamlit app.py
 📈 **Future Improvements**
 
 Add collaborative filtering
+
 Improve UI using React
+
 Add user authentication
+
 Deploy on cloud (AWS / Render / Vercel)
