@@ -1,4 +1,6 @@
- **About the Project**
+ **About the Project**\\
+
+ 
 This project is a Movie Recommender System built using a content-based filtering approach.
 
 The system recommends movies based on similarity between movies. When a user selects a movie, the system finds and displays movies that are most similar to it.
